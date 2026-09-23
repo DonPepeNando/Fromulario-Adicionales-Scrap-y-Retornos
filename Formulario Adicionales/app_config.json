@@ -1,0 +1,396 @@
+{
+    "template_path": "C:/Users/Fernando.Carrasco/Desktop/Formulario de Adicionales y Retornos/FORMATO SCRAP Y ADICIONALES.xlsm",
+    "sheet_name": "SCRAP",
+    "credentials_path": "credentials.json",
+    "google_sheet_url_or_name": "https://docs.google.com/spreadsheets/d/1JgEPE7n_d0wT4l9QxNlRUnjTjlZRqmPWKbLATf9HRJM/edit?gid=0#gid=0",
+    "lists_file_path": "C:/Users/Fernando.Carrasco/Desktop/Formulario de Adicionales y Retornos/Listas.txt",
+    "generated_folios": {
+        "F00000": {
+            "folio": "F00000",
+            "orden": "324234",
+            "fecha": "26/08/2026",
+            "accion": "Return Ok",
+            "file": "C:\\Users\\Fernando.Carrasco\\Desktop\\Formulario de Adicionales y Retornos\\Formulario Adicionales\\F00000_26-08-2026.xlsm",
+            "status": "LOCKED",
+            "timestamp": 1787763811.6226585,
+            "data": {
+                "orden": "324234",
+                "centro_costos": "TP08000",
+                "area": "Ensamble",
+                "proyecto": "9105854",
+                "nombre": "pureuejse",
+                "folio": "F00000",
+                "fecha": "26/08/2026",
+                "accion": "Return Ok",
+                "materiales": [
+                    {
+                        "material": "W8337181\tBASE PLASTICA",
+                        "cantidad": "233",
+                        "descripcion": "sdsadwe"
+                    }
+                ]
+            }
+        },
+        "F00001": {
+            "folio": "F00001",
+            "orden": "TEST",
+            "fecha": "08/09/2026",
+            "accion": "Return Ok",
+            "file": "C:\\Users\\Fernando.Carrasco\\Desktop\\F00001_08-09-2026.pdf",
+            "status": "LOCKED",
+            "synced": true,
+            "timestamp": 1788900816.7937896,
+            "data": {
+                "orden": "TEST",
+                "centro_costos": "TP08000",
+                "area": "Ensamble",
+                "proyecto": "9105854",
+                "nombre": "",
+                "folio": "F00001",
+                "fecha": "08/09/2026",
+                "accion": "Return Ok",
+                "materiales": [
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "3",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "5",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "5",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "3",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8337181\tBASE PLASTICA",
+                        "cantidad": "5",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120700\tSELLO VERDE",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "6543",
+                        "cantidad": "333",
+                        "batch": "33",
+                        "descripcion": "665"
+                    },
+                    {
+                        "material": "4",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120700\tSELLO VERDE",
+                        "cantidad": "2323",
+                        "batch": "34",
+                        "descripcion": "huevos"
+                    },
+                    {
+                        "material": "3200999 - Tornillería M6",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8233160\tLIGA",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8337181\tBASE PLASTICA",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "BC023724\tPCBA 12´S 3.2",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "EG040800R\tTornillos",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8337181\tBASE PLASTICA",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "R10222S0\tSMT Resistor",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8337181\tBASE PLASTICA",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "Q6470003\tSELLO DE PLOMO",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8337181\tBASE PLASTICA",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8668122\tPLACA P/BASE",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200999 - Tornillería M6",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200999 - Tornillería M6",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "234",
+                        "cantidad": "",
+                        "batch": "553424",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "65432",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "66543",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "665434",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "5566554",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "565322",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "55432",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "5543",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "5554",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "455",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "345",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "1",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "12",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J3WP0051900\tESQUINERO CORTO",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200999 - Tornillería M6",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200277 - Tíner / Solvente",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "W8233160\tLIGA",
+                        "cantidad": "",
+                        "batch": "123123123123123123123123123132442312452341343254234",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120700\tSELLO VERDE",
+                        "cantidad": "",
+                        "batch": "123123",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120700\tSELLO VERDE",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "",
+                        "batch": "123123123",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200277 - Tíner / Solvente",
+                        "cantidad": "",
+                        "batch": "232312",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200111 - Aceite sintético",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200277 - Tíner / Solvente",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200999 - Tornillería M6",
+                        "cantidad": "",
+                        "batch": "",
+                        "descripcion": ""
+                    }
+                ]
+            }
+        }
+    },
+    "max_generated_seq": 1,
+    "deleted_folios": [
+        "F00001",
+        "F00000",
+        "FOLIOPRUEBA1",
+        "F00002"
+    ],
+    "auto_sync_google_sheets": true,
+    "ignore_sequence_history": true
+}

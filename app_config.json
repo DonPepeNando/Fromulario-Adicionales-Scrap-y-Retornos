@@ -1,0 +1,185 @@
+{
+    "template_path": "C:/Users/Fernando.Carrasco/Desktop/Formulario de Adicionales y Retornos/FORMATO SCRAP Y ADICIONALES.xlsm",
+    "sheet_name": "SCRAP",
+    "credentials_path": "credentials.json",
+    "google_sheet_url_or_name": "https://docs.google.com/spreadsheets/d/1JgEPE7n_d0wT4l9QxNlRUnjTjlZRqmPWKbLATf9HRJM/edit?gid=0#gid=0",
+    "lists_file_path": "C:/Users/Fernando.Carrasco/Desktop/Formulario de Adicionales y Retornos/Listas.txt",
+    "generated_folios": {
+        "FOLIOPRUEBA1": {
+            "folio": "folioprueba1",
+            "orden": "6100024567",
+            "fecha": "20/08/2026",
+            "accion": "Return Ok",
+            "file": "C:/Users/Fernando.Carrasco/Desktop/Formulario de Adicionales y Retornos/Generados/Formulario_Return Ok_folioprueba1_20-08-2026.xlsm",
+            "status": "LOCKED",
+            "timestamp": 1787331953.7661316,
+            "data": {
+                "orden": "6100024567",
+                "centro_costos": "TP06000",
+                "area": "Mantenimiento",
+                "nombre": "Carrasqui",
+                "folio": "folioprueba1",
+                "fecha": "20/08/2026",
+                "accion": "Return Ok",
+                "materiales": [
+                    {
+                        "material": "3200999 - Tornillería M6",
+                        "cantidad": "567 litros",
+                        "descripcion": "tornillo liquido yummy"
+                    }
+                ]
+            }
+        },
+        "F00000": {
+            "folio": "F00000",
+            "orden": "6100066666",
+            "fecha": "21/08/2026",
+            "accion": "Return Ok",
+            "file": "C:\\Users\\Fernando.Carrasco\\Desktop\\Formulario de Adicionales y Retornos\\Generados\\F00000_21-08-2026.xlsm",
+            "status": "LOCKED",
+            "timestamp": 1787353667.845091,
+            "data": {
+                "orden": "6100066666",
+                "centro_costos": "TP08000",
+                "area": "Ensamble",
+                "proyecto": "9105854",
+                "nombre": "ElCarrasquiTEST",
+                "folio": "F00000",
+                "fecha": "21/08/2026",
+                "accion": "Return Ok",
+                "materiales": [
+                    {
+                        "material": "3200277 - Tíner / Solvente",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200111 - Aceite sintético",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2BJ0001100\tRING",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "11",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "11",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "NTNY280S",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "R11424S1\tSMT Resistor",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "Q8656000-R\tInserto",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "C3104807-DJL\tSafety Capacitor",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "3200276\tConformal Coating 1A33/521 PB25",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J1B1H002700\tBateria",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "C3102800-DJL\tSafety Capacitor",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "R68112S0\tSMT Resistor",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "30045-R\tSoldering",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2ZH0092700-R\tLiner",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "R51242SA\tSMT Resistor",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120700\tSELLO VERDE",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "J2PP0120800\tCOMPONENTE FINAL",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "SJ01010135-MXG\tRESINA PBT+GF20% Black",
+                        "cantidad": "1",
+                        "descripcion": ""
+                    },
+                    {
+                        "material": "Q8656000-R\tInserto",
+                        "cantidad": "11",
+                        "descripcion": ""
+                    }
+                ]
+            }
+        }
+    },
+    "max_generated_seq": -1,
+    "deleted_folios": [
+        "F00001"
+    ],
+    "auto_sync_google_sheets": true
+}

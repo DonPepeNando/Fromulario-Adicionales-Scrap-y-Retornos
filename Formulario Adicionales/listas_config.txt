@@ -1,0 +1,29 @@
+[FOLIO_INICIAL]
+F00000
+
+[CENTRO_COSTOS]
+TP08000
+TP06000
+TP01000
+TP02000
+
+[AREAS]
+Ensamble
+Mantenimiento
+Calidad
+Almacén
+Preproceso
+
+[MATERIALES]
+3200277 - Tíner / Solvente
+3200111 - Aceite Sintético
+3200999 - Tornillería M6
+3200555 - Cable de Calibración
+3200444 - Conector Industrial
+3200333 - Etiqueta de Inspección
+
+[PROYECTOS]
+PRJ-1001
+PRJ-1002
+PRJ-2026-A
+PRJ-2026-B
