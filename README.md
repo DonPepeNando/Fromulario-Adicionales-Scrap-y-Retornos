@@ -38,4 +38,4 @@ Iniciar_Formulario.bat
 El proyecto incluye archivos de configuración para ser empaquetado usando PyInstaller. El archivo `.spec` (`Formulario Adicionales.spec`) contiene las directivas necesarias para incluir los assets e íconos.
 
 ## Licencia
-Código **Propietario y Privado**. Todos los derechos reservados. No se permite la copia ni distribución sin autorización.
+Código **Propietario y Privado**. Todos los derechos reservados. No se permite la copia ni distribución sin autorización. Creado por Fernando Carrasco.
